@@ -25,16 +25,16 @@ Passionate about building scalable web applications, learning cloud technologies
 
 <p align="left">
 
-<a href="https://github.com/codeByTalhaDev">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<a href="https://github.com/codeByTalhaDev" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<a href="https://linkedin.com/in/codebytalhadev">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://linkedin.com/in/codebytalhadev" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 
-<a href="mailto:talhamughal02148@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="mailto:talhamughal02148@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
 </p>
@@ -69,9 +69,9 @@ Passionate about building scalable web applications, learning cloud technologies
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
-### 📦 Sales Management System
+## 📦 Sales Management System
 
 A full-stack ERP-style Sales Management System featuring:
 
@@ -83,45 +83,19 @@ A full-stack ERP-style Sales Management System featuring:
 - Purchase Module
 - Docker Support
 
-**Tech**
+### Tech Stack
 
-React • Node.js • Express • MySQL • Sequelize • Docker
-
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=codeByTalhaDev&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=codeByTalhaDev&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByTalhaDev&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
+React • Node.js • Express.js • MySQL • Sequelize • Docker • Tailwind CSS
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Learning Goals
 
-- ☁️ Learn AWS Cloud
-- ⚙️ Master DevOps Fundamentals
-- 🚀 Build Production-Ready Applications
-- 🤝 Contribute to Open Source
-- 📖 Strengthen Data Structures & Algorithms
+- ☁️ AWS Cloud
+- ⚙️ DevOps Fundamentals
+- 🐳 Docker & Containerization
+- 🚀 Building Production-Ready Applications
+- 📖 Data Structures & Algorithms
 
 ---
 
@@ -129,6 +103,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByTalhaD
 
 ### Thanks for visiting my profile ❤️
 
-*"Code. Learn. Build. Improve."*
+<i>"Code. Learn. Build. Improve."</i>
 
 </p>
